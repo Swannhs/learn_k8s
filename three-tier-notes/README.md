@@ -61,3 +61,6 @@ VITE_API_BASE='http://localhost:3000' npm run dev -- --host
 ```
 
 Open Vite dev URL shown in terminal.
+
+## Kubernetes learning
+See [k8s/README.md](k8s/README.md) for step-by-step Kubernetes deployment and learning flow.
